@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout<< "Learn Coding on CodeChef";
-	
+	// your code goes here
+	cout<<"Learn Coding on CodeChef"<<endl;
 }
