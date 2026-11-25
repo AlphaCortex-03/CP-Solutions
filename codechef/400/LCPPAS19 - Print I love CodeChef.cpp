@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-    cout<<"I"<<endl<<"love"<<endl<<"CodeChef";
+    // Your code here
+    cout<<"I"<<endl<<"love"<<endl<<"CodeChef"<<endl;
+
     return 0;
 }
