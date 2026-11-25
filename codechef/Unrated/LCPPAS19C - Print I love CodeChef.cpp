@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Your code here
+    cout<<"Welcome to C++ programming!"<<endl<<"Let's learn and have fun."<<endl;
+    return 0;
+}
